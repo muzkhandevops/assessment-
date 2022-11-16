@@ -1,0 +1,20 @@
+{
+  "name": "console",
+  "version": "1.0.0",
+  "main": "app2.js",
+  "scripts": {
+    "start": "node app2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzkhandevops/assessment-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/muzkhandevops/assessment-/issues"
+  },
+  "homepage": "https://github.com/muzkhandevops/assessment-#readme",
+  "description": ""
+}
